@@ -87,7 +87,7 @@ export default function App() {
           <div className="aspect-video relative">
             <iframe
               className="w-full h-full"
-              src="https://www.youtube.com/embed/live_stream/Q5ebAmWDkZM"
+              src="https://www.youtube.com/embed/88z3JG-cylU?autoplay=1&mute=1&si=MtXuN4q51OD4w5Rv"
               title="MaST Center Aquarium Live Stream"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
